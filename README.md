@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Use your own banner image URL below or keep the clean code-based layout -->
-<img src="./assets/banner.png" alt="banner" width="800px">
+<img src="./assets/banner.png" alt="banner" height= "450px" width="1000px">
 
 # V I N I T  M I S T R Y
 
-### **DevOps Engineer • Cloud Architect • Full-Stack Integrator**
+### DevOps Engineer • Cloud Engineer 
 
-`DevOps` • `Cloud Architecture` • `CI/CD Pipelines` • `Automation` • `Infrastructure as Code` • `Full-Stack Dev`
+`DevOps` • `Cloud Architecture` • `CI/CD Pipelines` • `Automation` • `Infrastructure as Code` 
 
 ### *Building Scalable Cloud Infrastructure, Automated Pipelines & Web Ecosystems.*
 
@@ -39,9 +39,11 @@ I'm currently pursuing the Master Cloud Architecture course, deepening my expert
 ## 🚀 DevOps & Automation
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 Code Quality & Artifacts
 
@@ -101,5 +103,4 @@ I'm currently pursuing the Master Cloud Architecture course, deepening my expert
 *   🎓 **Bachelor of Engineering in IT** – Laxmi Institute of Technology (CGPA: 8.43)
 *   🛡️ **Foundations of Cybersecurity** – Google
 *   📈 **Manage Security Risk** – Google
-*   🌀 **In Progress:** Comprehensive Cloud Infrastructure & Architecture Academy Series
-</file_text>
+*   🌀 **In Progress:** Master in Cloud Architecture 
